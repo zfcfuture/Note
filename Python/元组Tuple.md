@@ -1,6 +1,6 @@
 ### 元组Tuple
 
-Tuple也是有序的列表，和list非常累死，但是tuple<font color=red>一旦初始化就不能修改</font>,比如：
+Tuple也是有序的列表，和list非常类似，但是tuple<font color=red>一旦初始化就不能修改</font>,比如：
 
 `classmates = ('Michael', 'Bob', 'Tracy')`
 
