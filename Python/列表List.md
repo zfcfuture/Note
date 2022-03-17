@@ -1,10 +1,8 @@
-### 列表List
+## 列表List
 
 python的内置数据类型，list是一种<font color=red>可变、有序</font>的集合，可以随时添加和删除其中的元素
 
 表现形式如下：`classmates = ['Michael', 'Bob', 'Tracy']`
-
-
 
 #### 1.  基本操作
 
@@ -16,8 +14,6 @@ python的内置数据类型，list是一种<font color=red>可变、有序</font
 
 ​				   访问最后一个元素可以使用`list[-1]`，以此类推，倒数第二为`list[-2]`...
 
-
-
 **列表增删**：`list`是一个可变的有序表，增删元素方式如下：
 
 - 追加元素到末尾：`list.append('xxx')`
@@ -25,8 +21,6 @@ python的内置数据类型，list是一种<font color=red>可变、有序</font
 - 删除末尾元素：`list.pop()`
 - 删除指定位置元素：`list.pop(i)`
 - 元素替换：`list[i] = 'xxx'`
-
-
 
 #### 2.  列表特性
 
