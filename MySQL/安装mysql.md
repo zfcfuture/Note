@@ -28,6 +28,9 @@ vim /etc/mysql/mysql.conf.d/mysqld.cnf
 #bind-address            = 127.0.0.1
 bind-address            = 0.0.0.0
 
+# 7.重启mysql服务
+service mysql restart
+
 # Note: 如果使用的是云服务器(阿里云，腾讯云)，记得去安全组查看3306端口是否开放
 ```
 
